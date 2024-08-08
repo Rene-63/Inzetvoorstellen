@@ -1,7 +1,8 @@
 # Inzetvoorstellen
 Hier publiceer ik mijn inzetvoorstellen
 
-Laatste versie is van 05-08-2024 https://www.meldkamerspel.com/aao_exports/5130/import/d3208c03fbee3dee30aa886c217d9e43
+Laatste versie is van 08-08-2024 
+https://www.meldkamerspel.com/aao_exports/5135/import/069f8316af23b048387aafdfbf836d75
 
 Zorgen dat je inzetvoorstellen-categoriën er zo uitzien!!!!
 
